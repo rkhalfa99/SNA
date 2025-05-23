@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: f4263dad-901d-4e1a-ac6d-345fda59b399
+
+RestoreWorkspace: No
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: SNA met R
